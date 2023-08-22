@@ -1,0 +1,23 @@
+
+@import '~bootstrap/dist/css/bootstrap.min.css';
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+   /* background-color: rgba(206, 18, 18, 0.8);*/
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+
+    font-size: 14px;
+    background-color: #1f1f24;
+    padding: 50px 0;
+    color: rgba(255, 255, 255, 0.7);
+ }
+
+  .navbar{
+    background-color: rgba(206, 18, 18, 0.8);
+
+ }
+
